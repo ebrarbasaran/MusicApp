@@ -6,3 +6,9 @@ The state is generally initialized in constructor and then call setState when we
 To use state, you need to import useState from react.
 Sytntax: 
 const [stateName,setStateName] = useState(<initialValue>);
+
+### :black_small_square: state in the project
+![State](https://github.com/ebrarbasaran/MusicApp/blob/main/State.png)
+
+### :black_small_square: Design analysis for custom component
+![ComponentSolution](https://github.com/ebrarbasaran/MusicApp/blob/main/ComponentSolution.png)
